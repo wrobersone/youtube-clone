@@ -4,6 +4,7 @@
 }
 
 .videoCard-thumbnail {
+    border-radius: 10px;
     height: 140px;
     width: 250px;
 }
